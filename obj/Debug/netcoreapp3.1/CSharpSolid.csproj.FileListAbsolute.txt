@@ -1,0 +1,11 @@
+/home/virtuzera/Documentos/CSharpSolid/CSharpSolid/bin/Debug/netcoreapp3.1/CSharpSolid
+/home/virtuzera/Documentos/CSharpSolid/CSharpSolid/bin/Debug/netcoreapp3.1/CSharpSolid.deps.json
+/home/virtuzera/Documentos/CSharpSolid/CSharpSolid/bin/Debug/netcoreapp3.1/CSharpSolid.runtimeconfig.json
+/home/virtuzera/Documentos/CSharpSolid/CSharpSolid/bin/Debug/netcoreapp3.1/CSharpSolid.runtimeconfig.dev.json
+/home/virtuzera/Documentos/CSharpSolid/CSharpSolid/bin/Debug/netcoreapp3.1/CSharpSolid.dll
+/home/virtuzera/Documentos/CSharpSolid/CSharpSolid/bin/Debug/netcoreapp3.1/CSharpSolid.pdb
+/home/virtuzera/Documentos/CSharpSolid/CSharpSolid/obj/Debug/netcoreapp3.1/CSharpSolid.csprojAssemblyReference.cache
+/home/virtuzera/Documentos/CSharpSolid/CSharpSolid/obj/Debug/netcoreapp3.1/CSharpSolid.AssemblyInfoInputs.cache
+/home/virtuzera/Documentos/CSharpSolid/CSharpSolid/obj/Debug/netcoreapp3.1/CSharpSolid.AssemblyInfo.cs
+/home/virtuzera/Documentos/CSharpSolid/CSharpSolid/obj/Debug/netcoreapp3.1/CSharpSolid.dll
+/home/virtuzera/Documentos/CSharpSolid/CSharpSolid/obj/Debug/netcoreapp3.1/CSharpSolid.pdb
