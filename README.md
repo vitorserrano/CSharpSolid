@@ -2,9 +2,9 @@
 
 1. Responsabilidade Única.
 2. Aberto e Fechado. 
-  * Substituição Liskov.
-  * Segregação de Interfaces.
-  * Inverção de Dependencias.
+3. Substituição Liskov.
+4. Segregação de Interfaces.
+5. Inverção de Dependencias.
   
 ### Comandos rápidos VSCode: 
   - ctor = Cria o construtor.
